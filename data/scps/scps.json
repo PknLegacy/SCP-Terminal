@@ -19,284 +19,284 @@
     },
     {
         "id": "SCP-512-004",
-        "title": "Placeholder Title",
+        "title": "The Screaming Airlock",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A rusted containment door that emits tortured human screams when left open for more than 4 minutes."
     },
     {
         "id": "SCP-512-005",
-        "title": "Placeholder Title",
+        "title": "Entity 07 – The Drained Host",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A humanoid figure found unconscious in a cave, unable to wake but rapidly draining nearby energy sources."
     },
     {
         "id": "SCP-512-006",
-        "title": "Placeholder Title",
+        "title": "The Rotating House",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A house that reconfigures its interior layout in real-time while people are inside — no exit remains accessible after 10 minutes."
     },
     {
         "id": "SCP-512-007",
-        "title": "Placeholder Title",
+        "title": "The Child with Two Shadows",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "An ordinary boy reported missing in 2002, now accompanied by a second, independent shadow.."
     },
     {
         "id": "SCP-512-008",
-        "title": "Placeholder Title",
+        "title": "Folder 9",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A digital document that rewrites itself based on the reader’s secrets, including events that haven’t happened yet."
     },
     {
         "id": "SCP-512-009",
-        "title": "Placeholder Title",
+        "title": "The Forest That Screams Back",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A dense, quarantined forest that mimics the voices of anyone who enters — sometimes predicting their death."
     },
     {
         "id": "SCP-512-010",
-        "title": "Placeholder Title",
+        "title": "Static Host",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A television that turns on by itself and displays unknown people trapped in rooms with Foundation logos."
     },
     {
         "id": "SCP-512-011",
-        "title": "Placeholder Title",
+        "title": "The Water That Remembers",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A stream where every drop records emotional trauma — drinking it causes violent memory relapses."
     },
     {
         "id": "SCP-512-012",
-        "title": "Placeholder Title",
+        "title": "Root Code: ██.███.███",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A computer virus that infects any network, causing Foundation terminals to speak in broken Latin."
     },
     {
         "id": "SCP-512-013",
-        "title": "Placeholder Title",
+        "title": "The Crying Recorder",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "An audio device that plays never-ending recordings of a girl crying — no source has ever been identified."
     },
     {
         "id": "SCP-512-014",
-        "title": "Placeholder Title",
+        "title": "Sleepless God",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A statue that induces chronic insomnia in a 20-meter radius; subjects report whispered threats."
     },
     {
         "id": "SCP-512-015",
-        "title": "Placeholder Title",
+        "title": "Grave #27",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "An unmarked grave that shifts location every three days; all attempts to exhume it result in severe hallucinations."
     },
     {
         "id": "SCP-512-016",
-        "title": "Placeholder Title",
+        "title": "The Tooth Clock",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A clock that runs on extracted human teeth — each hour that passes accelerates tooth loss in nearby individuals."
     },
     {
         "id": "SCP-512-017",
-        "title": "Placeholder Title",
+        "title": "Antimemory Chamber",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A cell that erases itself from blueprints and physical maps every 24 hours."
     },
     {
         "id": "SCP-512-018",
-        "title": "Placeholder Title",
+        "title": "Phone Call From Below",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "Phone Call From Below."
     },
     {
         "id": "SCP-512-019",
-        "title": "Placeholder Title",
+        "title": "The Face in the Static",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "Radio interference revealing a contorted face blinking at irregular intervals. Frequency shifts every month."
     },
     {
         "id": "SCP-512-020",
-        "title": "Placeholder Title",
+        "title": "Candle of the Forgotten",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A candle that burns forever unless someone tries to extinguish it — doing so erases them from Foundation logs."
     },
     {
         "id": "SCP-512-021",
-        "title": "Placeholder Title",
+        "title": "The Entity in Bay-13",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "An anomaly confined in Bay-13 with no physical manifestation — reacts violently to human emotion."
     },
     {
         "id": "SCP-512-022",
-        "title": "Placeholder Title",
+        "title": "The One-Sided Book",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A book that displays different content depending on who opens it — one side always lies."
     },
     {
         "id": "SCP-512-023",
-        "title": "Placeholder Title",
+        "title": "Second Sun",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A floating orb that appears only to a single observer at a time, often warning of a personal catastrophe."
     },
     {
         "id": "SCP-512-024",
-        "title": "Placeholder Title",
+        "title": "The Twitching Room",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A storage room whose corners visibly 'twitch' when unobserved — causes severe vertigo in long exposures."
     },
     {
         "id": "SCP-512-025",
-        "title": "Placeholder Title",
+        "title": "Patient Z",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A woman with no pulse, no blood, and no heartbeat, yet shows no sign of decay or death."
     },
     {
         "id": "SCP-512-026",
-        "title": "Placeholder Title",
+        "title": "The Locked Spectrum",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A color outside known visible range — exposure triggers seizures and visual hallucinations."
     },
     {
         "id": "SCP-512-027",
-        "title": "Placeholder Title",
+        "title": "Dead Language Transmission",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A recurring radio broadcast in an unknown language, often received within 100m of Foundation512 sites."
     },
     {
         "id": "SCP-512-028",
-        "title": "Placeholder Title",
+        "title": "Hollow Photos",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "Photographs taken in a certain town depict people with no facial features — reality does not match."
     },
     {
         "id": "SCP-512-029",
-        "title": "Placeholder Title",
+        "title": "The Ticking Lung",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "An organ suspended in fluid that emits loud ticking. Any nearby subject begins to breathe in sync."
     },
     {
         "id": "SCP-512-030",
-        "title": "Placeholder Title",
+        "title": "Staircase To Noise",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A downward staircase in a condemned building that increases in ambient sound the lower one goes — no known bottom."
     },
     {
         "id": "SCP-512-031",
-        "title": "Placeholder Title",
+        "title": "The Coral Mind",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A brain-shaped coral reef found inland, showing electrical activity and reacting to human thoughts."
     },
     {
         "id": "SCP-512-032",
-        "title": "Placeholder Title",
+        "title": "Black Envelope",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "An envelope that appears under doors at night — once opened, the recipient forgets their name."
     },
     {
         "id": "SCP-512-033",
-        "title": "Placeholder Title",
+        "title": "The Wrong Reflection",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A bathroom mirror that shows a version of you five seconds before your actual movement — until it doesn't."
     },
     {
         "id": "SCP-512-034",
-        "title": "Placeholder Title",
+        "title": "The Room That Ate Time",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "The Room That Ate Time."
     },
     {
         "id": "SCP-512-035",
-        "title": "Placeholder Title",
+        "title": "Eyeless Watchers",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "Security cameras that record footage without lenses — the recordings show figures the naked eye cannot see."
     },
     {
         "id": "SCP-512-036",
-        "title": "Placeholder Title",
+        "title": "The Rain Beneath",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "Inverted rain: water begins rising from the ground instead of falling. Only occurs under Foundation512 Site-██."
     },
     {
         "id": "SCP-512-037",
-        "title": "Placeholder Title",
+        "title": "Living Equation",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A mathematical formula that changes depending on the mental health of the observer — solving it causes blackouts."
     },
     {
         "id": "SCP-512-038",
-        "title": "Placeholder Title",
+        "title": "Operation: Blindsight",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "An encrypted AI that predicts Foundation betrayals — but occasionally provides false warnings."
     },
     {
         "id": "SCP-512-039",
-        "title": "Placeholder Title",
+        "title": "The Last Broadcast",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A cassette tape that broadcasts a national emergency message from a country that doesn’t exist."
     },
     {
         "id": "SCP-512-040",
-        "title": "Placeholder Title",
+        "title": "The Swallowed Library",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A subdimension resembling a library where books whisper and occasionally blink."
     },
     {
         "id": "SCP-512-041",
-        "title": "Placeholder Title",
+        "title": "Skinwalker's Tape",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A VHS tape that, when played, causes the viewer to feel followed — some develop permanent paranoia."
     },
     {
         "id": "SCP-512-042",
-        "title": "Placeholder Title",
+        "title": "Nail of the Saintless",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A large, corroded nail found in ████████; makes the user believe they're being crucified, regardless of belief."
     },
     {
         "id": "SCP-512-043",
-        "title": "Placeholder Title",
+        "title": "The Blind Corridor",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A hallway within Site-7 where cameras and vision fail. Exploration requires touch-only navigatione."
     },
     {
         "id": "SCP-512-044",
-        "title": "Placeholder Title",
+        "title": "Error: File Known",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A corrupted Foundation file that writes itself into other documents until removed. Hostile to deletion attempts."
     },
     {
         "id": "SCP-512-045",
-        "title": "Placeholder Title",
+        "title": "Project: Cindersleep",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A sleep-inducing drug tested for use on Class-D personnel — causes irreversible dreaming states."
     },
     {
         "id": "SCP-512-046",
-        "title": "Placeholder Title",
+        "title": "The Hanging Teeth",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "Hundreds of human teeth suspended midair in an abandoned bunker — slowly orbiting an invisible point."
     },
     {
         "id": "SCP-512-047",
-        "title": "Placeholder Title",
+        "title": "The Mouth Inside",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A door within Site-███ that has lips, teeth, and responds to questions — often asks for blood."
     },
     {
         "id": "SCP-512-048",
-        "title": "Placeholder Title",
+        "title": "The Voice Beneath Floor-3",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "Audio recordings reveal a constant whisper under the third basement of Foundation Site-512-A. Origin: unknown."
     },
     {
         "id": "SCP-512-049",
-        "title": "Placeholder Title",
+        "title": "Echoes of Protocol 9",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A dormant backup server replays Foundation security logs — but with altered events no one remembers."
     },
     {
         "id": "SCP-512-050",
-        "title": "Placeholder Title",
+        "title": "SCP-512-050",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "Classified object. All inquiries redirected to O5-██ (Caylen █████). Access restricted under Directive 512/Ω."
     }
 ]
