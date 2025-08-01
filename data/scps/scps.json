@@ -1,21 +1,21 @@
 [
     {
         "id": "SCP-512-001",
-        "title": "Placeholder Title",
+        "title": "The Veiled Chamber",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A sealed underground room that resets itself every midnight, erasing all evidence of previous intrusions."
     },
     {
         "id": "SCP-512-002",
-        "title": "Placeholder Title",
+        "title": "The Veiled Chamber",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "A mirror that doesn't reflect reality, but instead a parallel world — where something is trying to break through."
     },
     {
         "id": "SCP-512-003",
-        "title": "Placeholder Title",
+        "title": "Event: Rain of Flesh",
         "image": "assets/images/censored.png",
-        "description": "Insert SCP description here."
+        "description": "Recurring anomalous weather event in a redacted zone involving biological matter raining from the sky."
     },
     {
         "id": "SCP-512-004",
